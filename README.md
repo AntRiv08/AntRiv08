@@ -19,7 +19,7 @@
 
 ###
 
-<p align="center">Hola 🤚 soy un programador ecuatoriano que le fascina programar, aprender nuevas cosas respecto al mundo de la programación, tener nuevos retos  y también me gusta el café☕.<br>🌜🖥️💯🧠</p>
+<p align="center">Hola 🤚 soy Antonio y soy un programador ecuatoriano que le fascina programar, aprender nuevas cosas respecto al mundo de la programación, tener nuevos retos  y también me gusta el café☕.<br>🌜🖥️💯🧠</p>
 
 ###
 
