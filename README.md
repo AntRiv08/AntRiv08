@@ -1,7 +1,3 @@
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -47,6 +43,8 @@
 <p align="left">Hola 🤚 soy un programador ecuatoriano que le fascina programar, aprender nuevas cosas respecto al mundo de la programación, tener nuevos retos  y que le gusta el café☕.<br><br>➡️🌜<br>➡️🖥️<br>➡️💯<br>➡️🧠</p>
 
 ###
+
+<br clear="both">
 
 <p align="center">Mis contactos y redes sociales.</p>
 
