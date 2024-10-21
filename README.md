@@ -48,12 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AntRiv08/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">Mis contactos y redes sociales.</p>
 
 ###
